@@ -1,0 +1,10 @@
+kettik
+
+mozhno proverky na .txt if files are not .txt then cout << "Error"
+
+
+
+///////////////////
+
+' a a apple '.
+'a asf 'asf ' as ' .
