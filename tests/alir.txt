@@ -1,7 +1,0 @@
-kettik
-
-mozhno proverky na. txt if files are not. txt then cout <<"Error"
-
-
-
-///////////////////'an a apple'.'an asf'asf'as'.

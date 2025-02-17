@@ -16,6 +16,11 @@ func main() {
 	inputFile := os.Args[1]
 	outputFile := os.Args[2]
 
+	if inputFile == outputFile {
+		fmt.Println("Input and output files must be different")
+		return
+	}
+
 	// Открываем файл для чтения
 	inFile, err := os.Open(inputFile)
 	if err != nil {
